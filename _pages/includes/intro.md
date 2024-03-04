@@ -1,0 +1,2 @@
+# 🎊 Welcome to my website!
+I am currently a Ph.D student in the Department of Electronic and Electrical Engineering, Southern University of Science and Technology (SUSTech) under the supervison of [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://faculty.sustech.edu.cn/mengqh/). My research interest includes robot perception and path planning.
