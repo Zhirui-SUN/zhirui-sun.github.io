@@ -1,1 +1,1 @@
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=365&t=t&d=IPQ6begbxpD4lmyQ6ObkOa9h7Es4b0G4vRxc66bXLyc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=2874b7&w=550&t=t&d=IPQ6begbxpD4lmyQ6ObkOa9h7Es4b0G4vRxc66bXLyc&co=ffffff&ct=000000'></script>
