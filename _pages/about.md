@@ -36,3 +36,4 @@ redirect_from:
 {% include_relative includes/internships.md %}
 
 <!-- {% include_relative includes/cv.md %} -->
+{% include_relative includes/map.md %}
