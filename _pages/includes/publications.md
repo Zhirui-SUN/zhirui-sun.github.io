@@ -1,5 +1,9 @@
 # 📝 Publications
 $\dagger$ indicates equal contribution, and $^{\ast}$ indicates corresponding authorship.
+1. **Learning-Guided Risk-Adaptive MPC with Control Barrier Functions for Safe Navigation in Uncertain Dynamic Environments** <br />
+**<u>Zhirui Sun</u>**, Siyuan Wang, Yuhan Pang, Bi-Ke Zhu, Jiankun Wang$^{\ast}$ <br />
+*IEEE International Conference on Robotics and Biomimetics*, 2025 [[doi]()][[site](https://sites.google.com/view/ra-mpc-cbf/)]
+
 1. **Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation** <br />
 **<u>Zhirui Sun</u>**, Xingrong Diao, Yao Wang, Bi-Ke Zhu, Jiankun Wang$^{\ast}$ <br />
 *Under Review*, 2025 [[arXiv](https://arxiv.org/pdf/2506.14305)][[site](https://sites.google.com/view/lr-mpc/)]
@@ -13,7 +17,7 @@ $\dagger$ indicates equal contribution, and $^{\ast}$ indicates corresponding au
 *IEEE Transactions on Automation Science and Engineering*, 2025 [[doi](https://doi.org/10.1109/TASE.2025.3551464)][[site](https://sites.google.com/view/namr-rrt/)]
 
 4. **A Systematic Evaluation of Different Indoor Localization Methods in Robotic Autonomous Luggage Trolley Collection at Airports** <br />
-**<u>Zhirui Sun</u>**, Wenhao Chen, Can He, Jiankun Wang$^{\ast}$ <br />
+**<u>Zhirui Sun</u>**, Weinan Chen, Can He, Jiankun Wang$^{\ast}$ <br />
 *Robotica*, 2024 [[doi](https://doi.org/10.1017/S0263574724002017)][[site](https://sites.google.com/view/localization-evaluation/)]
   
 5. **Autonomous multiple-trolley collection system with nonholonomic robots: Design, control, and implementation** <br />Peijia Xie$\dagger$, Bingyi Xia$\dagger$, Anjun Hu, Ziqi Zhao, Lingxiao Meng, **<u>Zhirui Sun</u>**, Xuheng Gao, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$<br /> *Journal of Field Robotics 2024* [[doi](https://doi.org/10.1002/rob.22395)]
