@@ -2,7 +2,7 @@
 $\dagger$ indicates equal contribution, and $^{\ast}$ indicates corresponding authorship.
 1. **Learning-Guided Risk-Adaptive MPC with Control Barrier Functions for Safe Navigation in Uncertain Dynamic Environments** <br />
 **<u>Zhirui Sun</u>**, Siyuan Wang, Yuhan Pang, Bi-Ke Zhu, Jiankun Wang$^{\ast}$ <br />
-*IEEE International Conference on Robotics and Biomimetics*, 2025 [[doi]()][[site](https://sites.google.com/view/ra-mpc-cbf/)]
+*IEEE International Conference on Robotics and Biomimetics*, 2025 [[doi](https://doi.org/10.1109/ROBIO66223.2025.11376316)][[site](https://sites.google.com/view/ra-mpc-cbf/)]
 
 1. **Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation** <br />
 **<u>Zhirui Sun</u>**, Xingrong Diao, Yao Wang, Bi-Ke Zhu, Jiankun Wang$^{\ast}$ <br />
@@ -20,19 +20,33 @@ $\dagger$ indicates equal contribution, and $^{\ast}$ indicates corresponding au
 **<u>Zhirui Sun</u>**, Weinan Chen, Can He, Jiankun Wang$^{\ast}$ <br />
 *Robotica*, 2024 [[doi](https://doi.org/10.1017/S0263574724002017)][[site](https://sites.google.com/view/localization-evaluation/)]
   
-5. **Autonomous multiple-trolley collection system with nonholonomic robots: Design, control, and implementation** <br />Peijia Xie$\dagger$, Bingyi Xia$\dagger$, Anjun Hu, Ziqi Zhao, Lingxiao Meng, **<u>Zhirui Sun</u>**, Xuheng Gao, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$<br /> *Journal of Field Robotics 2024* [[doi](https://doi.org/10.1002/rob.22395)]
+5. **Autonomous multiple-trolley collection system with nonholonomic robots: Design, control, and implementation** <br />
+Peijia Xie$\dagger$, Bingyi Xia$\dagger$, Anjun Hu, Ziqi Zhao, Lingxiao Meng, **<u>Zhirui Sun</u>**, Xuheng Gao, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$<br /> 
+*Journal of Field Robotics 2024* [[doi](https://doi.org/10.1002/rob.22395)]
 
-6. **Surface-enhanced Raman scattering spatial fingerprinting decodes the digestion behavior of lysosomes in live single cells** <br />Fugang Liu, **<u>Zhirui Sun</u>**, Bingyi Li, Jiaqing Liu, Zhou Chen, Jian Ye$^{\ast}$<br /> *VIEW 2024* [[doi](https://doi.org/10.1002/VIW.20240004)]
+6. **Surface-enhanced Raman scattering spatial fingerprinting decodes the digestion behavior of lysosomes in live single cells** <br />
+Fugang Liu, **<u>Zhirui Sun</u>**, Bingyi Li, Jiaqing Liu, Zhou Chen, Jian Ye$^{\ast}$<br /> 
+*VIEW 2024* [[doi](https://doi.org/10.1002/VIW.20240004)]
 
-7. **FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations** <br />Can He, Lingxiao Meng, **<u>Zhirui Sun</u>**, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$ <br /> *Robotica, 2024* [[doi](https://doi.org/10.1017/S0263574724000250)]
+7. **FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations** <br />
+Can He, Lingxiao Meng, **<u>Zhirui Sun</u>**, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$ <br /> 
+*Robotica, 2024* [[doi](https://doi.org/10.1017/S0263574724000250)]
 
-8. **Indoor Exploration and Simultaneous Trolley Collection Through Task-Oriented Environment Partitioning** <br />Junjie Gao, Peijia Xie, Xuheng Gao, **<u>Zhirui Sun</u>**, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$ <br /> *2024 IEEE International Conference on Robotics and Automation (ICRA)* [[doi](https://doi.org/10.1109/ICRA57147.2024.10610500)]
+8. **Indoor Exploration and Simultaneous Trolley Collection Through Task-Oriented Environment Partitioning** <br />
+Junjie Gao, Peijia Xie, Xuheng Gao, **<u>Zhirui Sun</u>**, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$ <br /> 
+*2024 IEEE International Conference on Robotics and Automation (ICRA)* [[doi](https://doi.org/10.1109/ICRA57147.2024.10610500)]
 
-9. **Multi-Risk-RRT: An Efficient Motion Planning Algorithm for Robotic Autonomous Luggage Trolley Collection at Airports** <br />**<u>Zhirui Sun$\dagger$</u>**, Boshu Lei$\dagger$, Peijia Xie, Fugang Liu, Junjie Gao, Ying Zhang, Jiankun Wang$^{\ast}$ <br /> *IEEE Transactions on Intelligent Vehicles 2024* [[doi](https://doi.org/10.1109/TIV.2023.3349171)]
+9. **Multi-Risk-RRT: An Efficient Motion Planning Algorithm for Robotic Autonomous Luggage Trolley Collection at Airports** <br />
+**<u>Zhirui Sun$\dagger$</u>**, Boshu Lei$\dagger$, Peijia Xie, Fugang Liu, Junjie Gao, Ying Zhang, Jiankun Wang$^{\ast}$ <br /> 
+*IEEE Transactions on Intelligent Vehicles 2024* [[doi](https://doi.org/10.1109/TIV.2023.3349171)][[site](https://sites.google.com/view/multi-risk-rrt/)]
 
-10. **Multi-Tree Guided Efficient Robot Motion Planning** <br />**<u>Zhirui Sun</u>**, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$ <br /> *2022 International Symposium on Biomimetic Intelligence and Robotics (ISBIR)* [[doi](https://doi.org/10.1016/j.procs.2022.10.096)]
+10. **Multi-Tree Guided Efficient Robot Motion Planning** <br />
+**<u>Zhirui Sun</u>**, Jiankun Wang$^{\ast}$, Max Q.-H. Meng$^{\ast}$ <br /> 
+*2022 International Symposium on Biomimetic Intelligence and Robotics (ISBIR)* [[doi](https://doi.org/10.1016/j.procs.2022.10.096)]
 
-11. **The state-of-the-arts of wireless electric vehicle charging via magnetic resonance: principles, standards and core technologies** <br />Songyan Niu, Haiqi Xu, **<u>Zhirui Sun</u>**, Z.Y. Shao, Linni Jian$^{\ast}$<br /> *Renewable and Sustainable Energy Reviews 2019* [[doi](https://doi.org/10.1016/j.rser.2019.109302)]
+11. **The state-of-the-arts of wireless electric vehicle charging via magnetic resonance: principles, standards and core technologies** <br />
+Songyan Niu, Haiqi Xu, **<u>Zhirui Sun</u>**, Z.Y. Shao, Linni Jian$^{\ast}$<br /> 
+*Renewable and Sustainable Energy Reviews 2019* [[doi](https://doi.org/10.1016/j.rser.2019.109302)]
 
 
 

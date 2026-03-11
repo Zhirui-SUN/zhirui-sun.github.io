@@ -1,4 +1,6 @@
 # 🎖 Honors and Awards
+- Best Student Paper Award, IEEE International Conference on Robotics and Biomimetics, *2025*
+- National Scholarship, *2025*
 - Outstanding Communist Party Member, SUSTech, *2025 and 2021*
 - Outstanding Student Cadre, SUSTech,  *2025*
 - Outstanding Graduate Student Leader, SUSTech, *2025*
